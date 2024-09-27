@@ -1,0 +1,8 @@
+{
+  "name": "to do list",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "6b037ead"
+}
